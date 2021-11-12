@@ -53,4 +53,5 @@ This Graph definitely means something
 
 ## Summary
 I tested the importance of the learning rate, a key hyperparameter in Neural Nets training.  I used a range of values so as to be able to interpret the results of the experiment. I then used Bayesian optimization of the learning rate hyperparameter, to show that the in-built mechanism is better than randomly guessing hyperparameters. I am pleased the results were interpretable, and I learned a lot about how to tune hyperparameters and how to deal with frequent crashes using unstable features. I am very happy with the project experience and looking forward to the next one!
+
 ![hpo_score.png](img/hpo_score.png)
